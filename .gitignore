@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.cfg
+.demo_env/Scripts/activate
+.demo_env/Scripts/activate.bat
+.demo_env/Scripts/Activate.ps1
+*.exe
+.demo_env/Scripts/deactivate.bat
